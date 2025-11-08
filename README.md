@@ -10,10 +10,10 @@
 
 2. **Membaca File CSV**
    ```python
-  data = pd.read_csv('nilai_siswa.csv')
-  data.info()
-  data.head()
-  data.describe()
+   data = pd.read_csv('nilai_siswa.csv')
+   data.info()
+   data.head()
+   data.describe()
 
 3 **Menampilkan Statistik Dasar**.
   print("Rata-rata:", data['Nilai'].mean())
