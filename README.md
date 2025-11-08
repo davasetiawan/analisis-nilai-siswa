@@ -72,6 +72,6 @@
    == ya, karena AI bisa menganalisis data dengan cepat,menemukan pola tersembunyi,dan membantu membuat grafik atau kesimpulan ototmatis tanpa harus menghitung dengan manual
    ```
 
-   ![Grafik Batang](<img width="481" height="485" alt="batang" src="https://github.com/user-attachments/assets/5f322b84-7468-4ff5-937a-1cbc7fe7e2ab" />)
-   ![Boxplot](<img width="481" height="485" alt="batang" src="https://github.com/user-attachments/assets/8947158c-9adf-4ade-8957-3b124c42adb1" />)
+   ![Grafik Batang](batang.png)
+   ![Boxplot](boxplot.png)
    
