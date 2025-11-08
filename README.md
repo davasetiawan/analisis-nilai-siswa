@@ -71,3 +71,8 @@
    3. Menurtu kamu AI apa membantu dalam analysis sebua data?
    == ya, karena AI bisa menganalisis data dengan cepat,menemukan pola tersembunyi,dan membantu membuat grafik atau kesimpulan ototmatis tanpa harus menghitung dengan manual
    ```
+
+   ![Grafik Batang](<img width="481" height="485" alt="Screenshot 2025-11-09 013205" src="https://github.com/user-attachments/assets/aff2bc57-00dd-4ece-abd6-bb4fb1279084" />)
+   ![Boxplot](<img width="493" height="392" alt="Screenshot 2025-11-09 013215" src="https://github.com/user-attachments/assets/38182930-ac06-49d4-bd2c-6ca4ce52fe22" />
+)
+   
