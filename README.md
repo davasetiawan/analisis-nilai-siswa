@@ -22,7 +22,7 @@
    print("Modus:", data['Nilai'].mode()[0])
 
 4. **Memisahkan Data Per Mapel**
- ```python
+   ```python
    matematika = data[data['Matpel'] == 'Matematika']
    produktif = data[data['Matpel'] == 'Produktif']
    inggris = data[data['Matpel'] == 'Bahasa Inggris']
@@ -30,15 +30,17 @@
    fisika = data[data['Matpel'] == 'Fisika']
 
 5. **Mengelompokan Data & Menghitung Rata-Rata**
+   ```python
    rata = data.groupby('Matpel')['Nilai'].mean()
-  print(rata)
+   print(rata)
 
 6. **Mebuat Grafik Batang**
+   ```python
    rata.plot(kind='bar')
-  plt.title('Rata-rata Nilai per Mapel')
-  plt.xlabel('Mata Pelajaran')
-  plt.ylabel('Nilai Rata-rata')
-  plt.show()
+   plt.title('Rata-rata Nilai per Mapel')
+   plt.xlabel('Mata Pelajaran')
+   plt.ylabel('Nilai Rata-rata')
+   plt.show()
 
 7. **Membuat Boxplot**
    sb.boxplot(x='Matpel', y='Nilai', data=data)
