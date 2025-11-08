@@ -64,10 +64,10 @@
 9. **Refleksi**
     ```python
    Refleksi Siswa
-1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data?
-== saya belajar cara menggunakan pandas unutk membaca dan mengelompokan data,menghitung rata rata dll,serta menggunakan matplotlib dan seaborn agar data kebih mudah dipahami
-2. Kesulitan apa yang kamu alami dalam membuat grafik?
-== kurang teliti sehingga banyak sintaks yang typo dan menyebabkan error
-3. Menurtu kamu AI apa membantu dalam analysis sebua data?
-== ya, karena AI bisa menganalisis data dengan cepat,menemukan pola tersembunyi,dan membantu membuat grafik atau kesimpulan ototmatis tanpa harus menghitung dengan manual
+   1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data?
+   == saya belajar cara menggunakan pandas unutk membaca dan mengelompokan data,menghitung rata rata dll,serta menggunakan matplotlib dan seaborn agar data kebih mudah dipahami
+   2. Kesulitan apa yang kamu alami dalam membuat grafik?
+   == kurang teliti sehingga banyak sintaks yang typo dan menyebabkan error
+   3. Menurtu kamu AI apa membantu dalam analysis sebua data?
+   == ya, karena AI bisa menganalisis data dengan cepat,menemukan pola tersembunyi,dan membantu membuat grafik atau kesimpulan ototmatis tanpa harus menghitung dengan manual
    ```
