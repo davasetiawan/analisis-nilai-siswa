@@ -73,12 +73,12 @@
    ```
 
 10. **Result Bagan Batang**
-    ```python
+    
     ![Grafik Batang](batang.png)
-    ```
+    
 11. **Result Boxplot**
-     ```python
+    
       ![Boxplot](boxplot.png)
-     ```   
+        
    
    
