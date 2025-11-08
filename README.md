@@ -19,7 +19,7 @@
    ```
 
 3 **Menampilkan Statistik Dasar**
-  ```python
+   ```python
    print("Rata-rata:", data['Nilai'].mean())
    print("Median:", data['Nilai'].median())
    print("Modus:", data['Nilai'].mode()[0])
