@@ -9,6 +9,7 @@
    import seaborn as sb
 
 2. **Membaca File CSV**
+   ```python
   data = pd.read_csv('nilai_siswa.csv')
   data.info()
   data.head()
