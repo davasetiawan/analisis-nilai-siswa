@@ -22,7 +22,7 @@
    print("Modus:", data['Nilai'].mode()[0])
 
 4. **Memisahkan Data Per Mapel**
-   ```python
+   ```python```
    matematika = data[data['Matpel'] == 'Matematika']
    produktif = data[data['Matpel'] == 'Produktif']
    inggris = data[data['Matpel'] == 'Bahasa Inggris']
