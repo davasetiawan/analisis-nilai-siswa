@@ -15,12 +15,14 @@
    data.head()
    data.describe()
 
-3 **Menampilkan Statistik Dasar**.
-  print("Rata-rata:", data['Nilai'].mean())
-  print("Median:", data['Nilai'].median())
-  print("Modus:", data['Nilai'].mode()[0])
+3 **Menampilkan Statistik Dasar**
+   ```python
+   print("Rata-rata:", data['Nilai'].mean())
+   print("Median:", data['Nilai'].median())
+   print("Modus:", data['Nilai'].mode()[0])
 
 4. **Memisahkan Data Per Mapel**
+ ```python
    matematika = data[data['Matpel'] == 'Matematika']
    produktif = data[data['Matpel'] == 'Produktif']
    inggris = data[data['Matpel'] == 'Bahasa Inggris']
